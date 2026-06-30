@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# React
+multi-agent-ui/node_modules/
+multi-agent-ui/dist/
+
+# OS
+.DS_Store

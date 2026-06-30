@@ -1,0 +1,37 @@
+.agent-content {
+  white-space: pre-wrap;
+  line-height: 1.7;
+  font-size: 0.97rem;
+}
+.agent-content h1,
+.agent-content h2,
+.agent-content h3,
+.agent-content h4 {
+  margin-top: 1rem;
+  margin-bottom: 0.7rem;
+  font-weight: 700;
+}
+
+.agent-content ul {
+  padding-left: 1.4rem;
+}
+
+.agent-content li {
+  margin-bottom: 0.5rem;
+}
+
+.agent-content p {
+  margin-bottom: 0.8rem;
+}
+
+.card {
+  border: none;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  transition: all 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+}
