@@ -1,5 +1,12 @@
 # 🤖 Multi-Agent Research System
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+
 An AI-powered research assistant built using a **multi-agent architecture**. The system automatically searches the web, extracts key insights, generates a structured research report, and critiques its own output using four specialized AI agents.
 
 ---
